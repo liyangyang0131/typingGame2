@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	/*background:#FAFAFA;*/
+	background:url(../images/l4.jpg);
+}
+#sence{
+	width:1180px;
+	height:340px;
+	background:#DBDBDB;
+	box-shadow: 0 0 10px #333;
+	border-radius:5px;
+	margin:170px auto 0;
+}
+
+.ton{
+	width:80px;
+	height:60px;
+	background:#2D8E96;
+	border-radius:18%;
+
+	box-shadow:0 5px 10px #757575;
+
+	float:left;
+
+	margin:20px 0 0 10px;
+
+	text-align:center;
+	line-height:60px;
+	color:#fff;
+	font-size:24px;
+}
+
+#time{
+	color:#fff;
+	position:absolute;
+	right:100px;
+	top:80px;
+	font-size:40px;
+}
